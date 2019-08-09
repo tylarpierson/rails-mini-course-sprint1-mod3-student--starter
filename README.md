@@ -1,4 +1,4 @@
-# Rails Mini Course - Sprint 1 - Module 3 - You Do (Solution)
+# Ruby on Rails - Ruby & Ruby on Rails Basics - Introduction to Ruby on Rails - Project
 
 ## Step One - Generate Rails App
 
